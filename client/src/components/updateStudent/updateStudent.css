@@ -1,0 +1,23 @@
+.updateStudent {
+    flex: 4;
+    text-align: center;
+    
+}
+
+.updateForm{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.updateField {
+    width: 500px;
+}
+
+.updateButton {
+    margin: 20px;
+}
+
+.updateCloseButton {
+    margin: 20px;
+}

@@ -1,0 +1,6 @@
+.registerStudent {
+    flex: 4;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}

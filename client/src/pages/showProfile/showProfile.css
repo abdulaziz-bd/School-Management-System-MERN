@@ -1,0 +1,15 @@
+.showProfile {
+    flex: 4;
+}
+
+.searchBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.showStudentBox {
+    margin: 50px;
+
+}
